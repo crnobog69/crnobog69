@@ -2,4 +2,4 @@
   
 <br>
 
-<h2><a href="https://crnobog69.github.io/">https://crnobog69.github.io/</a></h2>
+<h2><p align="center"><a href="https://crnobog69.github.io/">https://crnobog69.github.io/</a></p></h2>
