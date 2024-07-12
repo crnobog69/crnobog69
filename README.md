@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc155b50-bbc8-4504-90e6-b095ea909338" width="30%" alt="plasma-d1">
+  <img src="https://github.com/user-attachments/assets/fc155b50-bbc8-4504-90e6-b095ea909338" width="40%" alt="plasma-d1">
 </p>
 
 <br>
