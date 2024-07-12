@@ -1,11 +1,11 @@
-<h1><p align="center">[🔻]</p></h1>
-  
-<br>
+# <p align="center">[🔻]</p>
 
-![plasma-d1](https://github.com/user-attachments/assets/fc155b50-bbc8-4504-90e6-b095ea909338)
+<br>
 
 <p align="center">
-  <img src="![plasma-d1](https://github.com/user-attachments/assets/fc155b50-bbc8-4504-90e6-b095ea909338)">
+  <img src="https://github.com/user-attachments/assets/fc155b50-bbc8-4504-90e6-b095ea909338" width="60%" alt="plasma-d1">
 </p>
+
 <br>
-<h3><p align="center"><a href="https://crnobog69.github.io/">https://crnobog69.github.io/</a></p></h3>
+
+### <p align="center"><a href="https://crnobog69.github.io/">https://crnobog69.github.io/</a></p>
