@@ -2,8 +2,9 @@
  
 <br>
 
-<div align="center">
- <a href="https://github.com/crnobog69">🐙 Github</a>
- <a href="https://mastodon.social/@prepungrad">🐘 Mastodon</a>
- <a href="https://mastodon.social/@prepungradhttps://codeberg.org/crnobog">⛰️ Codeberg</a>
-</div>
+
+- **🐙 [Github](https://github.com/crnobog69)**  
+- **🐘 [Mastodon](https://mastodon.social/@prepungrad)**  
+- **⛰️ [Codeberg](https://codeberg.org/crnobog)**
+
+
