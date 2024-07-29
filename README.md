@@ -9,3 +9,8 @@
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"></a>
 </p>
 
+---
+
+🌐
+- [Codeberg](https://crnobog.codeberg.page/)
+- [Github](https://crnobog69.github.io/)
