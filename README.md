@@ -2,6 +2,6 @@
  
 <br>
 
-<p align="center">
-  - 🐙 [Github](https://github.com/crnobog69)
-</p>
+- 🐙 [Github](https://github.com/crnobog69)
+- 🐘 [Mastodon](https://mastodon.social/@prepungrad)
+- ⛰️ [Codeberg](https://codeberg.org/crnobog)
