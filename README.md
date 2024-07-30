@@ -2,6 +2,7 @@
  
 <br>
 
+<a align="center">"Just go out and kill a few beasts."</>
 
 <p align="center">
   <a href="https://github.com/crnobog69" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
