@@ -2,7 +2,7 @@
  
 <br>
 
-<p align="center"><i>"Just go out and kill a few beasts."</i>i</p>
+<p align="center"><i>"Just go out and kill a few beasts."</i></p>
 
 <br>
 
