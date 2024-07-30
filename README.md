@@ -3,6 +3,7 @@
 <br>
 
 <p align="center"><i>"Just go out and kill a few beasts."</i></p>
+<p align="center"><i></i>~ Gehrman</p>p>
 
 <br>
 
