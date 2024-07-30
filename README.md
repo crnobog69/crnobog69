@@ -1,6 +1,10 @@
-<p align="center">[🔻]</p>
+# <p align="center">[🔻]</p>
+ 
+<br>
 
-<p align="center"><i>"Just go out and kill a few beasts."</i></p>
+<p align="center"><i>"Just go out and kill a few beasts."</i>i</p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/crnobog69" target="_blank">
