@@ -2,8 +2,8 @@
  
 <br>
 
-### <p align="center"><i>"Just go out and kill a few beasts."</i></p>
-#### <p align="center"><i>~ Gehrman ~</i></p>
+## <p align="center"><i>"Just go out and kill a few beasts."</i></p>
+### <p align="center"><i>~ Gehrman ~</i></p>
 
 <br>
 
@@ -14,4 +14,4 @@
   </a>
 </p>
 
-#### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Projects ~</i></a></p>
+### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Projects ~</i></a></p>
