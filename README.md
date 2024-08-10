@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<p align="center" href="https://github.com/crnobog69?tab=repositories"><i>Projects</i></p>
+<a align="center" href="https://github.com/crnobog69?tab=repositories"><i>Projects</i></a>
