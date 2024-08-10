@@ -13,3 +13,5 @@
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg">
   </a>
 </p>
+
+<p align="center" href="https://github.com/crnobog69?tab=repositories"><i>Projects</i></p>
