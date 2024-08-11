@@ -10,10 +10,9 @@
 <p align="center">
   <a href="https://github.com/crnobog69" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a> 
   <a href="https://mastodon.social/@prepungrad" target="_blank"><img src="https://img.shields.io/badge/Mastodon-7F4C8A?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
-  <a href="https://codeberg.org/crnobog" target="_blank"><img src="https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg">
-  </a>
+  <a href="https://codeberg.org/crnobog" target="_blank"><img src="https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"></a>
+  <a href="https://ko-fi.com/P5P311PGR8" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P311PGR8)
-
 ### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Projects ~</i></a></p>
+
