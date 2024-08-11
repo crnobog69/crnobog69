@@ -11,21 +11,22 @@
 
 <p align="center">
   <a href="https://github.com/crnobog69" target="_blank">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
   </a>
   <a href="https://mastodon.social/@prepungrad" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-7F4C8A?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
+    ![Mastodon](https://img.shields.io/badge/Mastodon-7F4C8A?style=for-the-badge&logo=mastodon&logoColor=white)
   </a>
   <a href="https://codeberg.org/crnobog" target="_blank">
-    <img src="https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg">
+    ![Codeberg](https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white)
   </a>
   <a href="https://ko-fi.com/crnobog" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+    ![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
   </a>
   <a href="https://x.com/prepungrad" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
   </a>
 </p>
+
 
 
 
