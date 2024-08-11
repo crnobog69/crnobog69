@@ -21,7 +21,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://mastodon.social/@prepungrad" target="_blank">
-    <img width="32px" alt="Mastodon" title="Mastodon" src="https://cdn.worldvectorlogo.com/logos/mastodon-1.svg"/>
+    <img width="32px" alt="Mastodon" title="Mastodon" src="https://cdn.worldvectorlogo.com/logos/mastodon-2.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/crnobog" target="_blank">
