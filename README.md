@@ -8,7 +8,8 @@
 <br>
 
 <br>
-<div align="center">
+
+<p align="center">
   <a href="https://github.com/crnobog69" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -24,7 +25,8 @@
   <a href="https://x.com/prepungrad" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-</div>
+</p>
+
 
 
 
