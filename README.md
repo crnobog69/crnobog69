@@ -33,30 +33,6 @@
 
 </div>
 
-<br>
-<br>
-
-<!---------------------------------------------------------------------------->
-
-[GitHub Badge]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white
-[GitHub]: https://github.com/crnobog69
-
-[Mastodon Badge]: https://img.shields.io/badge/Mastodon-7F4C8A?style=for-the-badge&logo=mastodon&logoColor=white
-[Mastodon]: https://mastodon.social/@prepungrad
-
-[Codeberg Badge]: https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white
-[Codeberg]: https://codeberg.org/crnobog
-
-[Ko-fi Badge]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
-[Ko-fi]: https://ko-fi.com/crnobog
-
-[X Badge]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-[X]: https://x.com/prepungrad
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-
 
 
 
