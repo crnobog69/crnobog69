@@ -13,6 +13,6 @@
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"></a>
   <a href="https://ko-fi.com/crnobog" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </p>
-
+<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>
 
 ### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Projects ~</i></a></p>
