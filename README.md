@@ -21,7 +21,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://mastodon.social/@prepungrad" target="_blank">
-    <img width="32px" alt="Mastodon" title="Mastodon" src="https://i.imgur.com/mVm29vK.png"/>
+    <img width="32px" alt="Mastodon" title="Mastodon" src="https://cdn.worldvectorlogo.com/logos/mastodon-1.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/crnobog" target="_blank">
@@ -32,6 +32,7 @@
     <img width="32px" alt="X (Twitter)" title="X" src="https://i.imgur.com/AixJgnm.png"/>
   </a>
 </p>
+
 
 
 ### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Projects ~</i></a></p>
