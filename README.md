@@ -17,5 +17,6 @@
   <a href="https://x.com/prepungrad" target="_blank"><img src="assets/x.svg" alt="X" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
 </p>
 
+---
 
 ### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Projects ~</i></a></p>
