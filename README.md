@@ -12,7 +12,6 @@
   <a href="https://mastodon.social/@prepungrad" target="_blank"><img src="https://img.shields.io/badge/Mastodon-7F4C8A?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"></a>
   <a href="https://ko-fi.com/crnobog" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
-  <a href="https://x.com/prepungrad" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 
