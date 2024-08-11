@@ -2,8 +2,8 @@
 
 <br>
 
-## <p align="center"><i>"Just go out and kill a few beasts."</i></p>
-### <p align="center"><i>~ Gehrman ~</i></p>
+### <p align="center"><i>"Just go out and kill a few beasts."</i></p>
+#### <p align="center"><i>~ Gehrman ~</i></p>
 
 ---
 
@@ -17,4 +17,4 @@
 
 ---
 
-### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Projects ~</i></a></p>
+#### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Projects ~</i></a></p>
