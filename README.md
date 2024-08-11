@@ -7,6 +7,37 @@
 
 <br>
 
+<br>
+
+<div align="center">
+
+  [![GitHub Badge]][GitHub]   
+  [![Mastodon Badge]][Mastodon]   
+  [![Codeberg Badge]][Codeberg]   
+  [![Ko-fi Badge]][Ko-fi]   
+  [![X Badge]][X]
+
+  <br>
+  <br>
+    
+  # Buttons
+         
+  **Links  ➞  Buttons**
+
+  <br>
+  <br>
+
+  [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+
+  [![Button Shield]][Shield]
+
+</div>
+
+<br>
+<br>
+
+<!---------------------------------------------------------------------------->
+
 [GitHub Badge]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white
 [GitHub]: https://github.com/crnobog69
 
@@ -21,6 +52,11 @@
 
 [X Badge]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 [X]: https://x.com/prepungrad
+
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Shield]: Types/Shield.md
+[KBD]: Types/KBD.md
+
 
 
 
