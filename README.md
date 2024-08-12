@@ -13,7 +13,7 @@
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="assets/codeberg.svg" alt="Codeberg" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://x.com/prepungrad" target="_blank"><img src="assets/x.svg" alt="X" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://ko-fi.com/crnobog" target="_blank"><img src="assets/ko-fi.svg" alt="Ko-fi" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
-  <a href="https://www.last.fm/user/prepungrad" target="_blank"><img src="assets/last-fm.svg" alt="Last-FM" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
+  <a href="https://www.last.fm/user/prepungrad" target="_blank"><img src="assets/lastfm.svg" alt="Last-FM" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
 </p>
 
 ---
