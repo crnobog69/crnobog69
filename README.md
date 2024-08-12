@@ -16,6 +16,6 @@
   <a href="https://www.last.fm/user/prepungrad" target="_blank"><img src="assets/lastfm.svg" alt="Last-FM" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
 </p>
 
----
+----
 
 ### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Пројекти | Projects ~</i></a></p>
