@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-	<title>last-fm-svg</title>
-	<defs>
-		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAGlQTFRFAAAA91t9/d/l//r7/////vT2/dDa//j5//7+/u7x/dbe/c7Y/dbf//f5//z9/urv/c/Z/MrV/c3X/dzj/ujt/dHa/dLb/dHb/MvW/MHO//39/dTd/uHn/MPQ/unu/u3x/dXe/d7l//b4vF9sAgAAACN0Uk5TAP8AAAAALQAAAAc6BwAAADNTQAAAJyAnTY0AFACAAAANAADqKDEMAAABDklEQVR4nKWTbU/CMBDH79wUBdkLRZQI+v2/lZrIQ4y6oUIwjHFPbZcwVhPvxXb3///aXtMWwQeGFKpDtW7XEWy2A4JHfSPwuK8EtvhCYJvPxB+ANp8IDyDF1smnXK0VEL+7USPVf6LV+Y8MVOXim379ValV8gtwVkLpgM5WcraqHX+lyrBwQAL9HIwoPeB6kw6cImtRC9lnHbgqPHCdUzoQN83eGgCbPuP+obc0YPheB3gHFDcfEHaRwGBhAI0N/VwWHjD1bk75cOaA26kB93PofgGMZ8RNpkY/vIYluHkJVpjQGD8zYIdFfDp6UuPx5IVmXeZ6WPHj/v+Nil/a+LWPP5z402tAqkO9+fnvAa07VS3ps1Y/AAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-	</style>
-	<use id="Layer" href="#img1" x="0" y="0"/>
-</svg>
