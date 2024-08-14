@@ -14,11 +14,9 @@
   <a href="https://x.com/prepungrad" target="_blank"><img src="assets/x.svg" alt="X" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://ko-fi.com/crnobog" target="_blank"><img src="assets/ko-fi.svg" alt="Ko-fi" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://www.last.fm/user/prepungrad" target="_blank"><img src="assets/lastfm.svg" alt="Last-FM" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
+  <a href="https://gravatar.com/68vuletic" target="_blank"><img src="assets/gravatar.svg" alt="Gravatar" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
 </p>
 
 ---
 
 ### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Пројекти | Projects ~</i></a></p>
-
-
-gravatar.com/68vuletic
