@@ -1,5 +1,5 @@
 # <p align="center">[🔻]</p>
-
+<a href="http://ipa-reader.xyz/?text=%2Fts%C9%B9%CC%A9nobo%C9%A1%2F&voice=Ewa"> <p align="center">/tsɹ̩noboɡ/</p> </a>
 <br>
 
 ### <p align="center"><i>"Just go out and kill a few beasts."</i></p>
