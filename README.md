@@ -20,4 +20,4 @@
 
 ---
 
-### <p align="center"><a href="https://short-offer-f87.notion.site/7d5b3228b96b4dae84471e2d02b77f33?pvs=4"><i>~ Пројекти | Projects ~</i></a></p>
+### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
