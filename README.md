@@ -17,6 +17,7 @@
   <a href="https://stats.fm/prepungrad" target="_blank"><img src="assets/stats-fm.svg" alt="Stats-FM" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://gravatar.com/crnobog69" target="_blank"><img src="assets/gravatar.svg" alt="Gravatar" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
   <a href="https://matrix.to/#/@krematorijum:matrix.org" target="_blank"><img src="assets/matrix.svg" alt="Matrix" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
+  <a href="https://anilist.co/user/crnobog/" target="_blank"><img src="assets/anilist.svg" alt="AniList" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
 </p>
 
 ---
