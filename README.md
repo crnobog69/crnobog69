@@ -13,10 +13,10 @@
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="assets/codeberg.svg" alt="Codeberg" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://x.com/prepungrad" target="_blank"><img src="assets/x.svg" alt="X" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://ko-fi.com/crnobog" target="_blank"><img src="assets/kofii.svg" alt="Ko-fi" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
+  <a href="https://myanimelist.net/profile/crnobog" target="_blank"><img src="assets/mal.svg" alt="MyAnimeList" style="width: 3rem; height: 3rem; margin: 0 1rem;">
   <a href="https://www.last.fm/user/prepungrad" target="_blank"><img src="assets/lastfm.svg" alt="Last-FM" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
   <a href="https://stats.fm/prepungrad" target="_blank"><img src="assets/stats-fm.svg" alt="Stats-FM" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://gravatar.com/crnobog69" target="_blank"><img src="assets/gravatar.svg" alt="Gravatar" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
-    <a href="https://myanimelist.net/profile/crnobog" target="_blank"><img src="assets/mal.svg" alt="MyAnimeList" style="width: 3rem; height: 3rem; margin: 0 1rem;">
   <a href="https://matrix.to/#/@krematorijum:matrix.org" target="_blank"><img src="assets/matrix.svg" alt="Matrix" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
   <a href="https://anilist.co/user/crnobog/" target="_blank"><img src="assets/anilist.svg" alt="AniList" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   </a>
