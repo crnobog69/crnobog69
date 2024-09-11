@@ -20,7 +20,7 @@
   <a href="https://gravatar.com/crnobog69" target="_blank"><img src="assets/gravatar.svg" alt="Gravatar" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
   <a href="https://matrix.to/#/@krematorijum:matrix.org" target="_blank"><img src="assets/matrix.svg" alt="Matrix" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
   <a href="https://myanimelist.net/profile/crnobog" target="_blank"><img src="assets/mal.svg" alt="MyAnimeList" style="width: 3rem; height: 3rem; margin: 0 1rem;">
-  <a href="https://t.me/szp69" target="_blank"><img src="assets/t-me.svg" alt="Telegram" style="width: 3rem; height: 3rem; margin: 1 1rem;"></a>
+  <a href="https://t.me/szp69" target="_blank"><img src="assets/t-me.svg" alt="Telegram" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
 </p>
 
 ---
