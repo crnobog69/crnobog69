@@ -23,6 +23,8 @@
    <a href="https://t.me/szp69" target="_blank"><img src="assets/t-me.svg" alt="Telegram" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://myanimelist.net/profile/crnobog" target="_blank"><img src="assets/mal.svg" alt="MyAnimeList" style="width: 3rem; height: 3rem; margin: 0 1rem;">
 </p>
+<a href="https://kitsu.app/users/crnobog" target="_blank"><img src="assets/kitsu.svg" alt="Kitsu" style="width: 3rem; height: 3rem; margin: 0 1rem;">
+</p>
 
 ---
 
