@@ -12,7 +12,6 @@
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="assets/codeberg.svg" alt="Codeberg" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://gitlab.com/crnobog" target="_blank"><img src="assets/gitlab.svg" alt="GitLab" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://mastodon.social/@prepungrad" target="_blank"><img src="assets/mastodon.svg" alt="Mastodon" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
-      <a href="https://kitsu.app/users/crnobog" target="_blank"><img src="assets/kitsu.svg" alt="Kitsu" style="width: 3rem; height: 3rem; margin: 0 1rem;">
   <a href="https://x.com/prepungrad" target="_blank"><img src="assets/x.svg" alt="X" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
     <a href="https://anilist.co/user/crnobog/" target="_blank"><img src="assets/anilist.svg" alt="AniList" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   </a>
@@ -21,8 +20,9 @@
   <a href="https://stats.fm/prepungrad" target="_blank"><img src="assets/stats-fm.svg" alt="Stats-FM" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://gravatar.com/crnobog69" target="_blank"><img src="assets/gravatar.svg" alt="Gravatar" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
   <a href="https://matrix.to/#/@krematorijum:matrix.org" target="_blank"><img src="assets/matrix.svg" alt="Matrix" style="width: 3rem; height: 3em; margin: 0 1rem;"></a>
-   <a href="https://t.me/szp69" target="_blank"><img src="assets/t-me.svg" alt="Telegram" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://myanimelist.net/profile/crnobog" target="_blank"><img src="assets/mal.svg" alt="MyAnimeList" style="width: 3rem; height: 3rem; margin: 0 1rem;">
+     <a href="https://t.me/szp69" target="_blank"><img src="assets/t-me.svg" alt="Telegram" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
+        <a href="https://kitsu.app/users/crnobog" target="_blank"><img src="assets/kitsu.svg" alt="Kitsu" style="width: 3rem; height: 3rem; margin: 0 1rem;">
   </p>
 
 
