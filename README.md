@@ -8,12 +8,13 @@
 ---
 
 <p align="center">
-  <a href="https://kitsu.app/users/crnobog" target="_blank"><img src="assets/kitsu.svg" alt="Kitsu" style="width: 3rem; height: 3rem; margin: 0 1rem;">
+ 
   <a href="https://github.com/crnobog69" target="_blank"><img src="assets/github.svg" alt="Github" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="assets/codeberg.svg" alt="Codeberg" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://gitlab.com/crnobog" target="_blank"><img src="assets/gitlab.svg" alt="GitLab" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://mastodon.social/@prepungrad" target="_blank"><img src="assets/mastodon.svg" alt="Mastodon" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://x.com/prepungrad" target="_blank"><img src="assets/x.svg" alt="X" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
+   <a href="https://kitsu.app/users/crnobog" target="_blank"><img src="assets/kitsu.svg" alt="Kitsu" style="width: 3rem; height: 3rem; margin: 0 1rem;">
     <a href="https://anilist.co/user/crnobog/" target="_blank"><img src="assets/anilist.svg" alt="AniList" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   </a>
   <a href="https://ko-fi.com/crnobog" target="_blank"><img src="assets/kofii.svg" alt="Ko-fi" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
