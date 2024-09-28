@@ -8,7 +8,6 @@
 ---
 
 <p align="center">
- 
   <a href="https://github.com/crnobog69" target="_blank"><img src="assets/github.svg" alt="Github" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://codeberg.org/crnobog" target="_blank"><img src="assets/codeberg.svg" alt="Codeberg" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
   <a href="https://gitlab.com/crnobog" target="_blank"><img src="assets/gitlab.svg" alt="GitLab" style="width: 3rem; height: 3rem; margin: 0 1rem;"></a>
