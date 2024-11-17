@@ -21,12 +21,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crnobog69&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crnobog69&show_icons=true&theme=dracula" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact&theme=dracula" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact" />
-</p>
 
 ---
 
