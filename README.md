@@ -21,3 +21,5 @@
 ---
 
 ### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69)
