@@ -21,9 +21,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crnobog69&show_icons=true&theme=dark&hide_title=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact&theme=dark&hide_title=true" width="45%" />
+  <img src="https://img.shields.io/badge/Top_Langs-Compact-%23a6e3a1?style=for-the-badge&logo=github&logoColor=white" width="45%" />
+  <img src="https://img.shields.io/badge/Total_Repos-%23a6e3a1?style=for-the-badge&logo=github&logoColor=white" width="45%" />
 </p>
+
 
 
 
