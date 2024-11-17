@@ -24,5 +24,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crnobog69&show_icons=true" width="45%" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact" width="45%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact" width="43%" height="200" />
 </p>
