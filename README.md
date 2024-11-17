@@ -27,11 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact&theme=catppuccin_mocha&hide_title=true" width="45%" />
 </p>
 
-<a href="https://github.com/crnobog69/">
-  <img src="https://img.shields.io/github/stars/crnobog69/?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=C9CBFF&labelColor=302D41" alt="stars">
-</a>
-
-
 ---
 
 ### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
