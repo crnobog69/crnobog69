@@ -23,10 +23,7 @@
 ### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crnobog69&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crnobog69&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact" width="48%" />
 </p>
 
