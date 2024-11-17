@@ -20,8 +20,6 @@
 
 ---
 
-### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crnobog69&show_icons=true" />
 </p>
@@ -29,4 +27,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact" />
 </p>
+
+---
+
+### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
 
