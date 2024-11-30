@@ -10,5 +10,5 @@
 
 ---
 
-### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
+### <p align="center"><a href="https://crnobog.vercel.app/pages/projects"><i>~ Пројекти | Projects ~</i></a></p>
 
