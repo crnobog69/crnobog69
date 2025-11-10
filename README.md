@@ -12,3 +12,4 @@
 
 ### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
 
+<img> src="https://wakapi.crnbg.org/api/activity/chart/vuletic.svg" width="50%" />
