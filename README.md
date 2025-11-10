@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnobog69&layout=compact&theme=catppuccin_mocha&hide_title=true" width="50%" />
 </p>
 
-<img src="https://wakapi.crnbg.org/api/activity/chart/vuletic.svg" width="100%" />
-
 ---
 
 ### <p align="center"><a href="https://github.com/crnobog69?tab=repositories"><i>~ Пројекти | Projects ~</i></a></p>
